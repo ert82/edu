@@ -1,5 +1,10 @@
-
 ## TODO
+
+Install BizTalk Server
+
+SSIS and KingswaySoft
+
+~~Remote connection to SQL Server on Azure VM~~
 
 C# version tables (.NET Framework, .NET Core...)
 
@@ -21,4 +26,7 @@ https://www.erikdarlingdata.com/sql-server/simple-test-results-for-query-i-o-per
 https://sqlblog.org/2021/10/12/t-sql-tuesday-143-worst-metadata
 
 https://sqlstudies.com/2018/09/11/what-happens-in-a-trigger-stays-in-the-transaction-t-sql-tuesday-106/
+
+## TODO
+
 
