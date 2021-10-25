@@ -1,7 +1,10 @@
 
 ## TODO
 
+C# version tables (.NET Framework, .NET Core...)
+https://www.thomasclaudiushuber.com/2021/10/21/c-10-extended-property-patterns
 https://www.brentozar.com/archive/2018/08/how-i-configure-sql-server-management-studio/
+https://paulsebastian.codes/c-sharp-pass-by-value-vs-ref-vs-in-vs-out?utm_source=csharpdigest&utm_medium=email&utm_campaign=386
 SQL Server CLR stored procedures and https://stackoverflow.com/questions/2047121/why-we-use-clr-procedures https://sqlsharp.com/
 
 # Articles
