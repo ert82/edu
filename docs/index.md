@@ -1,5 +1,7 @@
 ## TODO
 
+Setup azure DevOps, azuredevopslabs.com
+
 Install BizTalk Server
 
 SSIS and KingswaySoft
