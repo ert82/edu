@@ -1,5 +1,7 @@
 ## TODO
 
+Query execution plans in detail.
+
 Setup azure DevOps, azuredevopslabs.com
 
 Install BizTalk Server
