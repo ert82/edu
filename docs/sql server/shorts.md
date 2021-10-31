@@ -1,7 +1,8 @@
 
+
 ## SET ANSI_NULLS ON
 
-Keep it ON, it will be disabled in the future.
+Keep it ON, it will be disabled in the future anyway.
 
 ```SQL
 create table #tempTable (sn int, ename varchar(50))
@@ -24,11 +25,10 @@ select * from #tempTable where ename is not NULL -- (4 row(s) affected)
 select * from #tempTable where ename <> NULL -- (4 row(s) affected)
 ```
 
+## SET QUOTED_IDENTIFIER ON
 
 
-
-SET QUOTED_IDENTIFIER ON
-SET NOCOUNT ON
+## SET NOCOUNT ON
 ```
 
 ## Configuration advanced options (here, disable clr strict security)
