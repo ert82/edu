@@ -1,3 +1,5 @@
+https://www.netspi.com/blog/technical/adversary-simulation/attacking-sql-server-clr-assemblies/
+
 SQLCLR allows you to create Stored Procedures, Functions, Aggregates, Types, and Triggers to do things that either cannot be done, or cannot be done as efficiently, in T-SQL.
 
 The first category is functionality that simply cannot be done either in T-SQL User-Defined Functions or in T-SQL Stored Procedures. The second category is functionality that, at least to a degree, could be done in T-SQL UDFs, but only via OPENQUERY / OPENROWSET, or in two cases, also through a view. The third category is performance.
