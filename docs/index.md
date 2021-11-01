@@ -4,7 +4,7 @@ Query execution plans in detail - Redgate book and follow it with the code.
 
 Setup azure DevOps, azuredevopslabs.com
 
-Azure DevOps - linux, asp.net core API, blazor, sql server express
+Azure DevOps - linux, asp.net core API, sql server express and then 1) blazor 2) react 3) angular 4) vue
 
 # Others
 
