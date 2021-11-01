@@ -1,8 +1,10 @@
 ## TODO
 
-Query execution plans in detail.
+Query execution plans in detail - Redgate book and follow it with the code.
 
 Setup azure DevOps, azuredevopslabs.com
+
+Azure DevOps - linux, asp.net core API, blazor, sql server express
 
 Install BizTalk Server
 
