@@ -1,4 +1,18 @@
 
+## TODO
+Setup statistics about and record the following (for instance ever 1 hour)
+- row counts
+- table counts
+- backup sizes
+- IO
+- memory
+- CPU
+- also (but requires more work) rows added, modified, removed by tables
+
+Then, over time, you can start presenting trends
+
+
+
 
 ## SET ANSI_NULLS ON
 
